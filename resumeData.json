@@ -1,0 +1,157 @@
+{
+  "main": {
+    "name": "Varish Ahmad",
+    "occupation": "Student",
+    "description": "Fresher Graduated From an Computer Science background .I can learn new Technologies and Concept easily I am always looking forward to learn and maximize my potential",
+    "image": "profilepic.jpg",
+    "bio": "Software Developer",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "ahmad786svs@gmail.com",
+    "phone": "+918299018734",
+    "address": {
+      "street": "Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigrh",
+      "zip": "160012"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/varish-raja-247b4b177/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Varish786",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Chandigarh Group of College",
+        "degree": "Bachelor of Technology",
+        "graduated": "June 2023",
+        "description": "Computer Science & Engineering"
+      },
+      {
+        "school": "Sanskriti Public School",
+        "degree": "Higher Secondary School",
+        "graduated": "july 2017",
+        "description": "CBSE"
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": " ",
+        "years": "",
+        "description": ""
+      },
+
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "MERN",
+        "level": "40%"
+      },
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "CORE JAVA",
+        "level": "60%"
+      },
+      {
+        "name": "C++",
+        "level": "50%"
+      },
+      {
+        "name": "POWER BI",
+        "level": "80%"
+      },
+      {
+        "name": "BASICS OF AWS",
+        "level": "50%"
+      },
+      {
+        "name": "MySQL",
+        "level": "80%"
+      }
+      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Library Management System",
+        "category": "Application to Manage the Books",
+        "image": "library.jpg",
+        "url": "https://github.com/Varish786/Library-Managment"
+      },
+      {
+        "title": "Movie Rating using IMDB",
+        "category": "IMDB",
+        "image": "popularmovie.png",
+        "url": "https://github.com/Varish786/PopularMovies"
+      },
+      {
+        "title": "YouTube Clone",
+        "category": "Cloning of YouTube by using React",
+        "image": "youtube.jpg",
+        "url": "https://github.com/Varish786/react-youtube-clone"
+      },
+      {
+        "title": "UI/UX Design of Android",
+        "category": "UI/UX Design",
+        "image": "android.png",
+        "url": "https://github.com/Varish786/Android/tree/master/WAC"
+      },
+      {
+        "title": "Projects",
+        "category": "Python Projects",
+        "image": "python.jpg",
+        "url": "https://github.com/Varish786/Python"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
